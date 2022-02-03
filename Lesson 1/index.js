@@ -1,0 +1,1 @@
+console.log Hello! I am learning Javascript and will fuck Silicon walley
